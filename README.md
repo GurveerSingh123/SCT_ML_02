@@ -98,8 +98,3 @@ K-Means groups customers into clusters based on similarities in spending behavio
 # Conclusion
 This project demonstrates how unsupervised learning can identify hidden customer patterns. Businesses can use these insights to improve customer engagement, customer retention, and business decision-making.
 
----
-
-# 350-Character Project Description
-
-Built a Customer Segmentation system using K-Means Clustering on mall customer data. Customers were grouped based on annual income and spending score to identify purchasing behavior patterns. The project includes data preprocessing, feature scaling, elbow method analysis, clustering visualization, and business insights generation.
